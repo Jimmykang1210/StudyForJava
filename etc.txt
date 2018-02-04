@@ -47,3 +47,38 @@ https://opentutorials.org/module/180
 https://opentutorials.org/module/953
 CODE
 https://opentutorials.org/module/335
+
+개발자 커뮤니티
+https://okky.kr/
+https://www.devpia.com/
+https://www.phpschool.com/
+
+개발 무료 강의 (java 부터 여러개 다 있음)
+https://opentutorials.org/course/1223
+
+초보 개발자 스터디 구하는 곳
+ > 스터디그룹모집(무료)
+ > 초보프로그래머에게
+ > 면접후기
+여기 이용해볼 것
+http://cafe.naver.com/javachobostudy
+
+코딩 테스트(개발자용)
+https://codility.com/programmers/
+
+개발 툴 없이 사이트에서 코딩하기
+https://ideone.com/
+
+안좋은 회사 걸러내기 (it노조 회사명, okky 회사명으로 찾아보기)
+ex) it노조 골드비
+http://www.itunion.or.kr/xe/index.php?mid=JOBQNA01
+
+보면 좋을 것 같은 글
+https://okky.kr/article/329269
+https://okky.kr/article/275470
+https://okky.kr/article/311337
+https://okky.kr/article/358197
+https://okky.kr/article/427670
+https://okky.kr/article/426271
+https://okky.kr/article/369497
+https://okky.kr/article/369497
