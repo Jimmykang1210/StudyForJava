@@ -22,3 +22,28 @@ F : 전체 화면
 쉬프트 + < : 재생속도 감소 
 쉬프트 + > : 재생속도 증가
 C : 자막 ON/OFF
+
+NGINX
+https://opentutorials.org/module/384/3462
+Data Structure (자료구조)
+https://opentutorials.org/module/1335
+deview 2013
+https://opentutorials.org/module/1234
+HTML 사전
+https://opentutorials.org/module/13/270
+웹 애플리케이션 만들기
+https://opentutorials.org/module/1514
+Server side Javascript
+https://opentutorials.org/module/2026
+Python & Ruby
+https://opentutorials.org/module/1569
+python 2
+https://opentutorials.org/module/515
+Ruby
+https://opentutorials.org/module/517
+opentutorials.org project
+https://opentutorials.org/module/180
+휴대폰 구입 개념어 사전
+https://opentutorials.org/module/953
+CODE
+https://opentutorials.org/module/335
