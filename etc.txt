@@ -84,5 +84,8 @@ https://okky.kr/article/369497
 https://okky.kr/article/369497
 
 ip search 
-window > ipinfo.io/ip 
-linux > curl ipinfo.io/ip
+1. public address 확인 방법
+: curl ipinfo.io/ip
+
+2. private address 확인 방법
+: ip addr
