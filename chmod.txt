@@ -8,3 +8,22 @@ Numerical permissions(chmod)
 2	write only					-w-
 1	execute only				--x
 0	none						---
+
+Reference	Class	Description
+u	  owner	file's owner
+g	  group	users who are members of the file's group
+o	  others	users who are neither the file's owner nor members of the file's group
+a	  all	all three of the above, same as ugo
+
+Operator	Description
++	  adds the specified modes to the specified classes
+-	  removes the specified modes from the specified classes
+=	  the modes specified are to be made the exact modes for the specified classes
+
+Mode	Name	Description
+r	  read	read a file or list a directory's contents
+w	  write	write to a file or directory
+x	  execute	execute a file or recurse a directory tree
+X	  special execute	which is not a permission in itself but rather can be used instead of x. It applies execute permissions to directories regardless of their current permissions and applies execute permissions to a file which already has at least one execute permission bit already set (either owner, group or other). It is only really useful when used with '+' and usually in combination with the -R option for giving group or other access to a big directory tree without setting execute permission on normal files (such as text files), which would normally happen if you just used "chmod -R a+rx .", whereas with 'X' you can do "chmod -R a+rX ." instead
+s	  setuid/gid	details in Special modes section
+t	  sticky	details in Special modes section
