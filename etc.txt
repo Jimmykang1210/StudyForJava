@@ -82,3 +82,7 @@ https://okky.kr/article/427670
 https://okky.kr/article/426271
 https://okky.kr/article/369497
 https://okky.kr/article/369497
+
+ip search 
+window > ipinfo.io/ip 
+linux > curl ipinfo.io/ip
